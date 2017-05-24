@@ -1,0 +1,182 @@
+@font-face {
+	font-family: 'Circular Book';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Book'), url('lineto-circular-pro-book.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Medium';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Medium'), url('lineto-circular-pro-medium.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Book Italic';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Book Italic'), url('lineto-circular-pro-bookItalic.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Bold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Bold'), url('lineto-circular-pro-bold.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Medium Italic';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Medium Italic'), url('lineto-circular-pro-mediumItalic.woff') format('woff');
+}
+
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #70bg32;
+    background: -webkit-linear-gradient( to top, #90D0FD, #F6EE8B, #F58282);
+    background: -moz-linear-gradient( to top, #90D0FD, #F6EE8B, #F58282);
+    background: -ms-linear-gradient( to top, #90D0FD, #F6EE8B, #F58282);
+    background: -o-linear-gradient( to top, #90D0FD, #F6EE8B, #F58282);
+    background: linear-gradient( to top, #90D0FD, #F6EE8B, #F58282);
+    background-repeat:no-repeat;
+}
+
+h1	{
+		font-family: "Circular Bold";
+		font-size: 60px;
+		color: white;
+		padding-left: 40px;
+}
+
+h2	{
+		font-family: "Circular Book";
+		font-size: 30px;
+		color: white;
+		padding-left: 40px;
+
+}
+
+h3	{
+		font-family: "Circular Book Italic";
+		font-size: 30px;
+		color: white;
+		margin: 20px;
+}
+
+h4	{
+		font-family: "Circular Book";
+		font-size: 30px;
+		color: #7C848B;
+		margin: 30px;
+}
+
+h5	{
+		font-family: "Circular Book";
+		font-size: 17px;
+		line-height: 27px;
+		color: #7C848B;
+		margin: 30px;
+}
+
+p 	{
+		font-family: "Circular Book";
+		font-size: 17px;
+		line-height: 27px;
+		color: white;
+		padding-left: 40px;
+}
+nav {	font-family: "Circular Book";
+		font-size: 18px;
+		color: white;
+		padding-left: 20px;
+		padding-top: 15px;
+		letter-spacing: 1px;
+		padding-bottom: 10px;
+		border-bottom: 3px;
+		border-bottom-color: white;
+}
+body {
+		margin:0;
+		padding-bottom: 0;
+		border: 0;
+
+		
+}
+footer {
+		
+}
+.container {
+		height: 450px;
+}
+.container2 {
+		background-color: white;
+		height: 350px;
+}
+.container3 {
+		background-color: #D2EDFF;
+		height: 350px;
+}
+
+.box {
+	    height: 350px;
+	    width: 450px;
+
+}
+
+.box1 i {
+		text-align: left;
+		padding-left: 20px;
+		padding-right:20px;
+		display: inline-block;	
+}
+
+.box2 i {
+		text-align: left;
+		padding-left: 20px;
+		padding-right:20px;
+}
+.box3 i {
+		text-align: left;
+		padding-left: 20px;
+		padding-right:20px;
+		display: inline-block;
+}
+
+.floatLeft	{
+		float: left;
+}
+.floatRight	{
+		float: right;
+}
+.clear: {
+		clear: both;
+}
+.absolute	{
+		position: absolute;
+		float: all;
+}
+.bkgimg {
+		background-image: url('images/newgb1-01.svg');
+		background-size: cover;
+		background-position; right bottom;
+		background-repeat: no-repeat;
+		width: 100%;			
+}
+
+
+img {  
+	  max-height:100%;
+	  max-width: 100%;
+}
+
