@@ -1,0 +1,147 @@
+html {
+	height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #EFEFEF;
+}
+
+body {
+	font-family:'Roboto' sans-serif;
+	font-size: 12px;
+	border: 0px;
+	padding: 0px;
+	margin-top: 0px;
+}
+
+div {
+	overflow: hidden;
+	padding-top: 7px;
+	padding-bottom: 3px;
+	background-color: #EFEFEF;
+
+}
+
+h5 {
+	font-size: 6px;
+	color: #403E3D;
+	margin: 0px;
+}
+
+h6 {
+	font-size: 6px;
+	color: solid blue;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+}
+
+p {
+	font: 'Roboto';
+	font-size: 10px;
+	padding-top: 0px;
+	color: #979797;
+		margin: 0px;
+}
+
+a {
+	  position: relative;
+	  font-size: 13px;
+	  color: #666666;
+	  padding: 0px;
+	  margin: 0px;
+	  border: 0px;
+}
+
+a:hover::after {
+	  content: "";
+	  position: absolute;
+	  left: 5%;
+	  right: 5%;
+	  bottom: -17px;
+	  border: 2px solid red;
+}
+
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	display: inline;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+img { 
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+}
+
+#mainlinks {
+	height: 100%;
+	border-top: 1px solid #D0D5D6;
+	border-bottom: 1px solid #D0D5D6;
+	text-align: center;
+}
+
+#adplacement {
+	border: 0px;
+	margin: 0px;
+	padding: 0px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.row, .container-full {
+	border: none;
+}
+
+.box1, .box2, .box3, .box4, .box5 {
+	width: 183px;
+	padding-left: 10px;
+	display: inline-block;
+	height:100%;
+}
+
+
+.floatLeft {
+	float: left;
+}
+
+.floatRight {
+	float: right;
+}
+
+.clear {
+	clear: both;
+}
+
+.absolute{
+	float: all;
+}
+
+.float_center {
+  	float: right;
+	position: relative;
+  	right: 50%; /* or right 50% */
+  	text-align: left;
+}
+.float_center > .child {
+  position: relative;
+  left: 50%;
+}
+
+.largebox{
+	height: 100%;
+	background-color: solid white;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1024px;
+    padding-left: 50px;
+    padding-right: 50px;
+     }
