@@ -1,0 +1,301 @@
+	@font-face {
+	font-family: 'Circular Book';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Book'), url('../fonts/lineto-circular-pro-book.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Medium';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Medium'), url('../fonts/lineto-circular-pro-medium.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Book Italic';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Book Italic'), url('../fonts/lineto-circular-pro-bookItalic.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Bold';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Bold'), url('../fonts/lineto-circular-pro-bold.woff') format('woff');
+	}
+
+
+	@font-face {
+	font-family: 'Circular Medium Italic';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Circular Medium Italic'), url('../fonts/lineto-circular-pro-mediumItalic.woff') format('woff');
+}
+
+
+h1	{
+	font-family: 'Circular Bold';
+	font-size: 88px;
+	color: white;
+}
+
+h2	{
+	font-family: 'Circular Book';
+	font-size: 26px;
+	font-weight: 500;
+	line-height: 1.40;
+	color: #ffffff;
+}
+
+p 	{
+		font-family: 'Circular Book';
+		font-size: 16px;
+		line-height: 1.62;
+		color: #7c8c92;
+}
+
+body {
+		margin:0;
+		padding-bottom: 0;
+		border: 0;		
+}
+
+footer {
+		text-decoration: none;
+		font-family: 'Circular Book';
+		font-size: 14px;
+		font-weight: 500;
+		color: #7c8c92;
+		padding: 0px;
+		margin: 0px;
+		display: inline;
+
+}
+
+img {
+	height: 100%;
+	padding-left: 30px;
+}
+
+#jumbotron {
+		background-image: url('../img/bg.svg');
+		background-size: cover;
+		background-position; right bottom;
+		background-repeat: no-repeat;
+		height: 40%;
+		padding: 0px;
+		margin: 0px;
+}
+
+#portfoliowork h2 {color: #11bcff; padding-bottom: 0px; margin-bottom: 0px; padding-top: 20px}{
+		background-color: solid white;
+		height: 678px;
+}
+
+#approach h2 {color: #11bcff; padding-top: 169px;}{
+		height: 678px;
+
+}
+
+#workability h2 {color: #11bcff; padding-top: 169px;}{
+}		
+
+#straightenshitout {
+		height: 560px;
+}
+
+#footer ul li{ display: inline; text-decoration: none; padding: 30px; position: center;}{
+
+}
+
+.nav {	
+		font-family: 'Circular Book';
+		font-size: 14px;
+		font-weight: 500;
+		color: #ffffff;
+		padding: 0px;
+		margin: 0px;
+}
+
+.navbar {
+		font-family: 'Circular Book';
+		font-size: 14px;
+		font-weight: 500;
+		padding: 0px;
+		margin: 0px;
+		padding: 0px;
+		margin: 0px;
+		background-color: transparent;
+		border-color: transparent;
+}
+
+.navbar-header {
+		background-color: transparent;
+}
+
+
+.jumbotron-p {
+		width: 692px;
+}
+
+.lacmaimage {
+		position: right;
+		height: 600px;
+		padding-bottom: 100px;
+		padding-top: 0px;
+}
+
+.portfoliotext .workabilityparagraph{
+		padding-top: 15px;
+		padding-bottom: 20px;
+		width: 349px;
+}
+
+.workability-p-width {
+		width: 692px;
+		padding-bottom: 19px;
+}
+
+.portfoliospace {
+		height: 0px;
+}
+
+.approachtext {
+		background-image: url('../img/rectangle-4.svg');
+		background-size: cover;
+		background-position; right bottom;
+		background-repeat: no-repeat;
+		height: 70%;
+		padding-top: 0px;
+		margin: 0px;
+}
+
+.approachtext2 {
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.approachspace {
+		height: 200px;
+		padding-top: 200px;
+}
+
+.workabilitytext {
+		background-image: url('../img/4-th-row-bg.svg');
+		background-size: cover;
+		background-position; right bottom;
+		background-repeat: no-repeat;
+		height: 70%;
+		padding-top: 0px;
+		margin: 0px;
+}
+
+.line {
+		width: 810px;
+		height: 2px;
+		border: solid 1px #d0d5d6;
+		position: center;
+}
+
+.container {
+		padding-top: 70px;
+		padding-bottom: 0px;
+		padding-left: 160px;
+		padding-right: 0px;
+		margin: 0px;
+}
+
+.container-fluid {
+		padding: 0px;
+		margin:0px;
+}
+
+
+
+.btn {
+		background-color: #a3fecb;
+		border: none;
+		font-family: 'Circular Medium';
+		font-size: 19px;
+		line-height: 1.62;
+		color: #11bcff;
+		width: 228px;
+		height: 52px;
+		box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.23);
+		border-radius: 0px;
+
+}
+
+.btn2 {
+		background-color: #19c0fc;
+		border: none;
+		font-family: 'Circular Medium';
+		font-size: 19px;
+		line-height: 1.62;
+		color: #ffffff;
+		width: 228px;
+		height: 52px;
+		box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.23);
+		border-radius: 0px;
+
+}
+
+.brainstormingimg {
+		padding-top: 200px;
+}
+
+.workabilityimg {
+		padding-top: 300px;
+		margin-left: 400px;
+}
+
+.box {	
+		width: 1000px;
+}
+
+.box1 i {
+		margin-left:500px;
+		margin-top: 500px;
+		display: inline-block;	
+}
+
+.box2 i {
+		text-align: left;
+		padding-left: 20px;
+		padding-right:20px;
+		width: 700px;
+}
+.box3 i {
+		text-align: left;
+		padding-left: 20px;
+		padding-right:20px;
+		display: inline-block;
+}
+
+.floatLeft	{
+		float: left;
+}
+.floatRight	{
+		float: right;
+}
+.clear: {
+		clear: both;
+}
+.absolute	{
+		position: absolute;
+		float: all;
+}
+
+.jumbotronspace {
+		padding-bottom: 300px;
+}
+
+.spacer {
+		margin: 20px;
+}
+
