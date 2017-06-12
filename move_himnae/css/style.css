@@ -19,7 +19,7 @@ p {
 
 #himnae {
     height: 20%;
-
+    position: relative;
 }
 #color {
     text-align: center;
