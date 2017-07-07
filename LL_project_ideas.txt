@@ -1,0 +1,20 @@
+Come up with 2-3 ideas for a final project.
+
+Final project should have HTML, CSS and JavaScript.
+
+Your JavaScript will need at least 5 events
+
+Idea #1 
+Title: Create a flappy bird game
+One Sentence Description:what is said above
+Details: Just a simple fish guy going to the right and avoiding objects
+
+Idea #2
+Title: Create a simple portfolio website
+One Sentence Description: See above
+Details:design portfolio
+
+Idea #3 (Optional)
+Title: Something completely random and pointless but super cool.
+One Sentence Description: An interactive site that doesn’t really do much but is fun to experience
+Details: See above.
