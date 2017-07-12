@@ -1,3 +1,9 @@
+###NOTES###
+Idea 1: How would you handle collisions?
+Idea 2: Does that idea excite you?
+Idea 3: Love it
+:)
+
 Come up with 2-3 ideas for a final project.
 
 Final project should have HTML, CSS and JavaScript.
