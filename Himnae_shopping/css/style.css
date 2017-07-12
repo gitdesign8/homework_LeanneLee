@@ -1,0 +1,292 @@
+@font-face {
+   font-family: 'Circular Book';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Circular Book'), url('../fonts/lineto-circular-pro-book.woff') format('woff');
+   }
+ 
+ 
+@font-face {
+   font-family: 'Circular Medium';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Circular Medium'), url('../fonts/lineto-circular-pro-medium.woff') format('woff');
+   }
+ 
+ 
+   @font-face {
+   font-family: 'Circular Book Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Circular Book Italic'), url('l../fonts/ineto-circular-pro-bookItalic.woff') format('woff');
+   }
+ 
+ 
+   @font-face {
+   font-family: 'Circular Bold';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Circular Bold'), url('../fonts/lineto-circular-pro-bold.woff') format('woff');
+   }
+ 
+ 
+   @font-face {
+   font-family: 'Circular Medium Italic';
+   font-style: normal;
+   font-weight: normal;
+   src: local('Circular Medium Italic'), url('../fonts/lineto-circular-pro-mediumItalic.woff') format('woff');
+}
+
+body {
+    padding-left: 50px; 
+    margin: 0px;
+    background: url('../images/BG.svg') no-repeat; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    margin-bottom:10px;
+}
+
+h1 {
+    font-family: 'Circular Bold';
+    font-size: 43px;
+    color: white;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-family: 'Circular Book';
+    font-size: 21px;
+    color: white;
+    line-height: 30px;
+
+}
+
+h3 {
+    font-family: 'Circular Bold';
+    font-size: 27px;
+    font-weight: bold;
+    text-align: center;
+    color: #f58282;
+}
+
+h4 {
+
+    font-family: 'Circular Bold';
+    font-size: 17px;
+    font-weight: bold;
+    text-align: center;
+    color: #7c848b;
+}
+
+h5 {
+    font-family: 'CircularStd-Book';
+    font-size: 9px;
+    text-align: center;
+    color: #7c848b;
+}
+
+select {
+    background: white;
+    margin-top: none;
+    width: 20px;
+    padding: 5px;
+    font-family: C'CircularStd-Book';
+    font-size: 13px;
+    line-height: 1;
+    -webkit-appearance: none;
+    color: #7c848b;
+}
+
+button {
+    width: 71px;
+    height: 27px;
+}
+
+
+#Himnae {
+    display:block;
+    float: right;
+    padding-right: 100px;
+    margin-left: 50px;
+}
+
+#products {
+    padding-top: 0px;
+}
+
+#cart {
+    width: 320px;
+    height: 467.8px;
+    background-color: #ffffff;
+    border: solid 4px #ffe058;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 78px;
+    padding-left: 0px
+    block: inline;
+    float: right;
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+   box-shadow: none;
+}
+
+.navbar li { 
+    color: #ffffff; 
+} 
+
+.pagetitle {
+    padding-top: 20px;
+}
+
+.line-separator{
+    height:1px;
+    background:#ffe058;
+    border-bottom:1px solid #ffffff;
+    margin-left: 50px;
+    margin-right: none;
+    margin-top: 45px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    }
+
+.yourveraque {
+    width: 310px;
+    height: 45px;
+    background-color: #ffe058;
+    margin-top: 1px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-right: 45px;
+    padding-top: 10px;
+    margin-left: 5px;
+    font-family: 'CircularStd-Book';
+    font-size: 17px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #f58282;
+
+}
+
+.productcards {
+    width: 137px;
+    height: 149.3px;
+    opacity: 1;
+    background-color: rgba(255,255,255, 0.7);
+    box-shadow: 0 0 12px 0 rgba(0, 0, 0, 0.13);
+    margin: 10px 5px 5px 10px;
+    float: left;
+}
+}
+
+.product {
+    background-color: #99b3ff;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.productname {
+    padding-top: 12px;
+    margin: 0px;
+    text-align: center;
+    padding-bottom: 0px;
+}
+.title {
+    font-size: 24px;
+    display: inline;
+    margin-right: 10px;
+}
+
+.price {
+    padding-top: 5px;
+    text-align: center;
+    margin: 0px;
+    margin-bottom: 7px;
+}
+.productimage {
+    width: 55px;
+    height: 55px;
+    display: block;
+    margin: auto;
+    width: 40%;
+    margin-bottom: 13px;
+}
+
+.quantity {
+    padding-top: 2px;
+    padding-left: 11px;
+    height: 20px
+    font-family: 'CircularStd-Book';
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    color:  #7c848b;
+    padding-top: 2px;
+    float: left;
+    border: none;
+    background-color: transparent;
+}
+
+.btn {
+    border-radius: 0px;
+    background-color: #19c0fc;
+    box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.19)
+    font-family: 'CircularStd-Book';
+    font-size: 13px;
+    font-weight: 500;
+    text-align: center;
+    color:  #ffffff;
+    border-radius: 0px;
+    padding-top: 3px;
+    float:right;
+    margin-right: 5px;
+
+}
+
+.dropdown {
+
+    border-style: none;
+    border-color: none;
+    background-color: transparent;
+}
+
+.notes {
+    height: 2000px;
+}
+
+
+.carttext {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+
+}
+
+.cartqty {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+
+}
+
+.cartprice {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+    float: right;
+}
+
