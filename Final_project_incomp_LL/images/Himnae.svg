@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="192px" height="148px" viewBox="0 0 192 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Himnae</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.3%" y="-16.9%" width="126.6%" height="135.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.178838315 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M119.125333,119.946888 C146.122373,119.946888 168.007798,98.0614627 168.007798,71.0644231 C168.007798,44.0673834 146.662802,27.0794062 119.665763,27.0794062 C97.9078373,27.0794062 -2.27223584e-13,62.6321354 -2.27373675e-13,61.2057748 C-2.27373675e-13,61.2057748 30.8082759,65.7243219 30.8082759,65.7243219 C29.5759449,73.1183081 29.1054257,75.9714939 29.5759449,85.8523955 C29.9867219,94.4787128 34.9504902,100.149859 33.683715,100.640368 C33.683715,100.640368 7.80476323,119.125333 7.80476323,119.125333 C8.62631725,119.125333 105.80249,119.946888 119.125333,119.946888 Z" id="path-2"></path>
+        <path d="M135.338709,51.0351226 L160.771878,51.5381744 C163.618214,56.5084146 165.199837,60.7611887 165.516747,64.2964965 C165.833656,67.8318044 165.994012,72.4237927 165.997814,78.0724616 L137.029147,79.0840697 L137.029147,79.0840696 C132.804956,79.2315816 129.04727,76.4196923 127.997207,72.3254383 C127.011949,68.4838622 126.51932,65.295735 126.51932,62.7610569 C126.51932,60.6426388 126.887676,58.5242208 127.624388,56.4058027 L127.624388,56.4058027 C128.762078,53.1343733 131.875777,50.9666281 135.338709,51.0351226 Z" id="path-4"></path>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="39.4784942" height="28.0560654" fill="white">
+            <use xlink:href="#path-4"></use>
+        </mask>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-812.000000, -58.000000)">
+            <g id="Himnae" filter="url(#filter-1)" transform="translate(906.559944, 129.412153) rotate(2.000000) translate(-906.559944, -129.412153) translate(822.059944, 68.912153)">
+                <g id="Rectangle-7" transform="translate(0.000000, 0.821554)">
+                    <path d="M96.1218208,0 C124.4738,3.66823759 142.799448,16.4887575 151.098765,38.4615597 L136.310793,47.4986539 C137.831791,38.8742781 134.399756,29.8179077 126.014689,20.3295428 C113.437089,6.09699533 96.1218208,-2.12481341e-14 96.1218208,0 Z" id="Rectangle-9" fill="#38323A"></path>
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="#F9F9CA" xlink:href="#path-2"></use>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(107.434607, 30.348834) rotate(-2.000000) translate(-107.434607, -30.348834) " x="28.1546435" y="26.6518409" width="158.559927" height="7.39398622"></rect>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(95.164005, 47.650634) rotate(-2.000000) translate(-95.164005, -47.650634) " x="3.30987506" y="43.9536408" width="183.70826" height="7.39398622"></rect>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(95.685016, 64.889832) rotate(-2.000000) translate(-95.685016, -64.889832) " x="3.83088586" y="61.1928393" width="183.70826" height="7.39398622"></rect>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(96.294749, 81.991476) rotate(-2.000000) translate(-96.294749, -81.991476) " x="4.44061876" y="78.2944833" width="183.70826" height="7.39398622"></rect>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(96.954268, 99.764462) rotate(-2.000000) translate(-96.954268, -99.764462) " x="5.10013782" y="96.0674688" width="183.70826" height="7.39398622"></rect>
+                    <rect id="Rectangle-8" fill="#A7F5F9" mask="url(#mask-3)" transform="translate(97.575437, 118.604514) rotate(-2.000000) translate(-97.575437, -118.604514) " x="5.72130755" y="112.142943" width="183.70826" height="12.9231436"></rect>
+                    <path d="M133.744539,48.4716874 L169.240129,48.4716874 L168.329484,78.8135935 L135.232841,79.9693537 L135.232841,79.9693537 C131.091912,80.1139581 127.387338,77.4127014 126.258926,73.4258616 C125.063265,69.2014225 124.465435,65.5388372 124.465435,62.4381058 C124.465435,59.4168431 125.099782,56.3955804 126.368476,53.3743177 L126.368476,53.3743176 C127.615765,50.4040294 130.522995,48.4716874 133.744539,48.4716874 Z" fill="#DF7CF7" mask="url(#mask-3)"></path>
+                </g>
+                <circle id="Oval-2" fill="#000000" cx="142.568295" cy="60.3837203" r="2.87543908"></circle>
+                <circle id="Oval-2" fill="#000000" cx="154.070051" cy="60.3837203" r="2.87543908"></circle>
+                <use id="Rectangle-7" stroke="#F9F9CA" mask="url(#mask-5)" stroke-width="2" stroke-dasharray="2" xlink:href="#path-4"></use>
+                <path d="M142.157518,68.5992605 C143.265956,70.5162199 145.460026,71.4746996 148.739725,71.4746996 C152.019425,71.4746996 154.206977,70.5162199 155.302382,68.5992605" id="Line-2" stroke="#F9F9CA" stroke-linecap="square"></path>
+                <path d="M61.6435487,2.7631631 C88.0510643,5.67724806 108.863766,19.0959638 124.081655,43.0193103 C120.362422,43.7711779 117.855306,44.5102034 116.560308,45.2363867 C115.26531,45.9625699 113.406862,47.671578 110.984964,50.3634108 C107.15153,43.4539524 101.04228,35.2550407 92.6572131,25.7666758 C80.079613,11.5341283 61.6435487,2.7631631 61.6435487,2.7631631 Z" id="Rectangle-9" fill="#38323A" transform="translate(92.862602, 26.563287) rotate(-5.000000) translate(-92.862602, -26.563287) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

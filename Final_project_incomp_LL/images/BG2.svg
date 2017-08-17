@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="826px" viewBox="0 0 1024 826" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>BG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9581128%" y1="0%" x2="49.9992746%" y2="99.2081233%" id="linearGradient-1">
+            <stop stop-color="#00B2F8" offset="0%"></stop>
+            <stop stop-color="#6CDDD0" offset="40.830168%"></stop>
+            <stop stop-color="#F6FAE3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="16.0196816%" y1="6.10671795%" x2="74.1904727%" y2="43.4695668%" id="linearGradient-2">
+            <stop stop-color="#F2F2F2" offset="0%"></stop>
+            <stop stop-color="#DCE595" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="2.86765176%" x2="50%" y2="97.0244739%" id="linearGradient-3">
+            <stop stop-color="#F6CFC5" offset="0%"></stop>
+            <stop stop-color="#E0FEA5" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop">
+            <g id="BG" transform="translate(-77.000000, -4.000000)">
+                <rect fill="url(#linearGradient-1)" x="60.6199002" y="0.5" width="1090.39572" height="741.311046"></rect>
+                <path d="M35,536.276866 C112.733289,433.232941 218.684827,384.630555 352.854613,390.469711 C554.109293,399.228445 672.192842,484.903455 840.551139,554.193525 C952.790003,600.386906 1047.7382,624.258749 1125.39572,625.809054 L1125.39572,882.388429 L35,882.388429 L35,536.276866 Z" id="Rectangle-2" fill="url(#linearGradient-2)"></path>
+                <path d="M35,527.129784 C99.6002676,445.381603 198.985295,407.427091 333.155081,413.266246 C534.409761,422.02498 676.4522,542.850953 844.810497,612.141023 C957.049361,658.334404 1050.57777,672.908356 1125.39572,655.86288 L1125.39572,882.116109 L35,882.116109 L35,527.129784 Z" id="Rectangle-2" fill="url(#linearGradient-3)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

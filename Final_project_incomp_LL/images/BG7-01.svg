@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1400 980" style="enable-background:new 0 0 1400 980;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{opacity:0.5;fill:#FB7072;}
+	.st2{fill:#94C9D6;}
+	.st3{fill:#FB7072;}
+	.st4{fill:#BBE4EF;}
+	.st5{fill:#D3EFFB;}
+	.st6{fill:#D5F5F7;}
+	.st7{fill:#FFFFFF;}
+	.st8{opacity:0.4;fill:#DEF8FC;}
+	.st9{fill:#35A86B;}
+	.st10{fill:url(#SVGID_2_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="700" y1="-5.2303" x2="700" y2="447.0015">
+	<stop  offset="0" style="stop-color:#6D94B6"/>
+	<stop  offset="1" style="stop-color:#E6A7D9"/>
+</linearGradient>
+<rect class="st0" width="1400" height="980"/>
+<circle class="st1" cx="703.5" cy="980" r="825"/>
+<circle class="st1" cx="703.5" cy="980" r="655.5"/>
+<polyline class="st2" points="187,752 243,710 187,629 "/>
+<circle class="st3" cx="703.5" cy="980" r="520.9"/>
+<polyline class="st2" points="-39.9,601.2 111.6,394.6 166.3,479.2 200.9,449.7 330.7,561.1 395,470.6 500.2,595.3 887.6,549.9 
+	933.5,581.5 989.9,481.5 1034.9,570.9 1114.5,514.7 1182,421.9 1319.7,329.4 1400.8,554.8 1350.5,678.2 96.1,762.8 "/>
+<polyline class="st4" points="0,638.8 205,719.7 374,519 447,590.8 471.8,551 672.6,653.7 780.7,598.4 842.5,629 952.8,527.6 
+	1010,558.7 1125.9,406 1281,587 1400,447.1 1400,735 0,790.4 "/>
+<polyline class="st5" points="618.4,739.2 745.5,675 1061,629 1177,550.4 1265,490 1349,587 1400,629 1400,845.2 1245.2,845.2 "/>
+<polyline class="st6" points="374,519 324.5,638.8 365.5,667.6 "/>
+<polyline class="st5" points="0,759.8 187,629 331,694.4 586.1,707 649,769.7 229,833 154,845.2 0,845.2 "/>
+<polyline class="st6" points="471.8,551 467.5,598.4 519.5,647 "/>
+<polyline class="st7" points="187,629 94.3,768.3 0,810.3 "/>
+<polyline class="st7" points="1061,629 1110.8,655.3 1085.9,725.5 "/>
+<polyline class="st7" points="1265,490 1205,590.8 1299,752 "/>
+<polyline class="st7" points="1349,587 1327,629 1369,690.5 "/>
+<polyline class="st6" points="0,638.8 18,695 53,707 "/>
+<polyline class="st6" points="447,590.8 422.6,629 461,667.6 "/>
+<polyline class="st6" points="952.8,527.6 930.8,580 991,608 "/>
+<polyline class="st6" points="1010,558.7 1050,578 1030,621 "/>
+<polyline class="st6" points="1125.9,406 1159,505 1110.8,567.8 "/>
+<polyline class="st6" points="1400,447.1 1383,539.1 1348,558.7 "/>
+<polyline class="st8" points="154.1,431.6 128,527.6 141.1,584.4 "/>
+<polyline class="st8" points="211.5,512.6 207.5,558.7 180.8,584.4 "/>
+<polyline class="st8" points="243,481.1 279,527.6 259,590.8 "/>
+<polyline class="st8" points="430.4,490 422.6,532.5 445.5,551 "/>
+<polyline class="st8" points="907.5,539.1 915.5,550.5 897,567.8 "/>
+<polyline class="st8" points="1001.6,464.5 1010,511 996.1,533.5 "/>
+<polyline class="st8" points="1182.4,393.3 1224.4,411.3 1224.4,478.2 "/>
+<polygon class="st7" points="173.6,827.9 197,807.2 250.1,798.8 199.3,812 "/>
+<polygon class="st7" points="1048.7,719.8 1111,729.4 1153.6,766.2 1108.3,735 "/>
+<polyline class="st7" points="331,694.4 271,737.1 315.5,688 "/>
+<rect x="0" y="737.1" class="st5" width="1474" height="297.8"/>
+<radialGradient id="SVGID_2_" cx="680.4116" cy="507.9559" r="862.3246" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	<stop  offset="0.8672" style="stop-color:#FFFFFF;stop-opacity:0.8672"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<rect x="-56.6" y="-7.9" class="st10" width="1474" height="1031.8"/>
+</svg>
